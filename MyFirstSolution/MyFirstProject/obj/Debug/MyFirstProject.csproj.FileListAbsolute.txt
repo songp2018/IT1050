@@ -1,0 +1,7 @@
+C:\Users\pings\desktop\MyFirstSolution\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\pings\desktop\MyFirstSolution\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\pings\desktop\MyFirstSolution\MyFirstProject\bin\Debug\MyFirstProject.pdb
+C:\Users\pings\desktop\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.csprojResolveAssemblyReference.cache
+C:\Users\pings\desktop\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\pings\desktop\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\pings\desktop\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.pdb
